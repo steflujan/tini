@@ -3,6 +3,7 @@
 	margin:0;
 	padding:0;
 	text-align: center;
+	font-family:'Roboto';
 }
 nav {
 	margin-top:70px;
@@ -10,9 +11,55 @@ nav {
 a {
 	padding:10px;
 	text-decoration:none;
+	color:white;
+}
+h2 {
+	font-size:20px;
+}
+button {
+	background-color:#FCBA43;
+	padding:10px;
+	margin:15px;
 }
 
 #page-header {
 	background-color: #FCCE09;
 	height:650px;
+	color:white;
+}
+.boton {
+	margin-top:50px;
+
+}
+.texto-central {
+	margin-top:300px;
+	margin-left:170px;
+	font-size: 40px;
+
+}
+.texto-central h3 {
+	font-size:18px;
+}
+.primera-seccion {
+	background-color:#EAEAE9;
+	padding:30px;
+}
+.fondo {
+	background-color: white;
+	padding:30px 0px;
+	margin-bottom:30px;
+
+}
+.fondo p, h2 {
+	text-align:left;
+	padding:15px;
+}
+footer {
+	background-color:#262624;
+	padding:30px;
+	color:white;
+}
+footer p {
+	text-align:left;
+	margin-left:130px;
 }
